@@ -22,6 +22,17 @@ Códigos que envolvem cálculos e lógica matemática!
 
 ## 🚀 Como rodar os projetos
 
-Clone o repositório:
-
+1. Clone este repositório em sua máquina local:
 git clone https://github.com/Hudson-Urbano/Estudos-e-Projetos.git
+
+2.Navegue até a pasta desejada:
+cd Estudos-e-Projetos/Projetos
+
+3.Compile e execute um projeto no terminal usando o javac e java (exemplo: Calculadora.java):
+javac Calculadora.java
+java Calculadora
+
+📌 Certifique-se de ter o Java JDK instalado e configurado corretamente em sua máquina.
+Você pode verificar com:
+java -version
+javac -version
